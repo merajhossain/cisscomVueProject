@@ -1,23 +1,17 @@
-## Nitex
+## Cisscom 
 
-WoopTour 
+Todo List 
 
-An application used to choose location, date, number of guest and make trip, built with React, JavaScript, and SCSS.
+A application for todo list
 
 ## Project Status
 
-Complete
+Not fully completed
 
 ## Decription:
 
-This project development is complete. Users can choose location, date, number of guest and make trip.
+This project development is not completed fully. 
 
-## Project Screen Shot(s)
-
-
-<a href="#">
-    <img src="https://cdn.dribbble.com/users/702789/screenshots/5685400/attachments/1228157/atach.png" alt="Dependency Status" />
-</a>
 
 ## Installation and Setup Instructions
 
@@ -37,22 +31,22 @@ To Start Server:
 
 To Visit App:
 
-`localhost:3000/`  
+`localhost:8080/`  
 
 ## Reflection
 
   - Tools which use in this project are given below
-      - React
+      - Vue
+      - Vuex
       - JS
       - SCSS
-      - CSS3 Animation
-      - Bootstrap
+      - Element
 
 ## Packages 
 
-      -  Animate.css
-      -  React Bootstrap
-      -  React Dom
-      -  React Router
+      -  Axios
+      -  Element-UI
+      -  Vue Router
+      -  Vuex
 
-This was a 10 days long project built during my task for job. Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.  
+This was a 3 days long project built during my task for job. Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.  
